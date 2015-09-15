@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    <!-- Gesture code starting -->
+    <string name="gesture_setup_code">设置解锁图案</string>
+    <string name="gesture_verify_code">验证解锁图案</string>
+    <string name="gesture_forget_code">忘记解锁图案?</string>
+    <string name="gesture_use_other_account_login">用其他账号登录</string>
+    <string name="gesture_set_pattern">绘制解锁图案</string>
+    <string name="gesture_set_pattern_org">绘制原解锁图案</string>
+    <string name="gesture_set_pattern_reason">绘制新的解锁图案</string>
+    <string name="gesture_set_pattern_again">再次绘制解锁图案</string>
+    <!-- End -->
+
+</resources>
