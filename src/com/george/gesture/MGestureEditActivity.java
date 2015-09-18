@@ -39,7 +39,7 @@ public class MGestureEditActivity extends Activity implements OnClickListener {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.gesture_activity_edit);
 		spf = getSharedPreferences("GesturePassword", 4);
-		name = getIntent().getStringExtra("name");
+		name = "蒋殷杰";
 		if (name == null || name.equals("")) {
 			Intent intent = getIntent();
 			intent.putExtra("msg", "用户名错误");
